@@ -1,5 +1,7 @@
 # Props
 
+## Perops are custom HTML attributes that are supported using JSX.
+
 ![props](../related_tuts_resources/props_image.png)
 
 - We know that react components are nothing but basic html and js snippets in the regular js functions which can have normal js code too.
